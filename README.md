@@ -12,11 +12,12 @@
 - Team Collaboration and Communication
 
 ## Proficiency Levels
-- **C:** ██████████░░░░░ 90%
-- **C++:** █████████░░░░░ 85%
-- **Python:** ████████░░░░░ 80%
-- **NumPy:** ██████████░░░░ 90%
-- **Pandas:** ██████████░░░░ 90%
+-<progress value="80" max="100"></progress> C: 80%<br>
+-progress value="85" max="100"></progress> C++: 85%<br>
+-<progress value="85" max="100"></progress> Python: 85%<br>
+-<progress value="95" max="100"></progress> NumPy: 95%<br>
+-<progress value="95" max="100"></progress> Pandas: 95%<br>
+
 
 ## Contact
 - 📫 Connect with me:
