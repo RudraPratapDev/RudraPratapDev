@@ -12,12 +12,12 @@
 - Team Collaboration and Communication
 
 ## Programming Languages
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" height="50"/>
 </div>
 
 ## Contact
