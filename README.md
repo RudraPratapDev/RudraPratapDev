@@ -11,13 +11,14 @@
 - Problem Solving and Algorithms
 - Team Collaboration and Communication
 
-## Proficiency Levels
--<progress value="80" max="100"></progress> C: 80%<br>
--progress value="85" max="100"></progress> C++: 85%<br>
--<progress value="85" max="100"></progress> Python: 85%<br>
--<progress value="95" max="100"></progress> NumPy: 95%<br>
--<progress value="95" max="100"></progress> Pandas: 95%<br>
-
+## Programming Languages
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50"/>
+</div>
 
 ## Contact
 - 📫 Connect with me:
