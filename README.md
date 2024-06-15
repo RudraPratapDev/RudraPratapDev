@@ -9,6 +9,6 @@
 ## What I'm Up To
 🌱 Delving deep into AI and ML concepts  
 🚀 Crafting code to train models and predict outcomes  
-📫 How to reach me: Connect with me here  
+📫 How to reach me: Connect with me [here](https://www.linkedin.com/in/rudra-it/)
 
 Let's create intelligent solutions together! 🤖✨
