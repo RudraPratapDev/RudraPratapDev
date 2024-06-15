@@ -1,14 +1,25 @@
 # Hello World! 👋 I'm RudraPratapDev
 
 ## About Me
-🎓 Pursuing BTech in IT @ VIT Vellore  
-💻 Passionate about AI and ML
-🧠 Proficient in C and Python with NumPy and Pandas 
-🎉 Fun fact: I love unraveling the mysteries of AI algorithms  
+- 🎓 Pursuing BTech in IT at VIT Vellore
+- 💻 Passionate about AI and ML
+- 🎉 Fun fact: I love unraveling the mysteries of AI algorithms
 
-## What I'm Up To
-🌱 Delving deep into AI and ML concepts  
-🚀 Crafting code to train models and predict outcomes  
-📫 How to reach me: Connect with me [here](https://www.linkedin.com/in/rudra-it/)
+## Skills
+- AI and Machine Learning
+- Data Analysis and Visualization
+- Problem Solving and Algorithms
+- Team Collaboration and Communication
+
+## Proficiency Levels
+- **C:** ██████████░░░░░ 90%
+- **C++:** █████████░░░░░ 85%
+- **Python:** ████████░░░░░ 80%
+- **NumPy:** ██████████░░░░ 90%
+- **Pandas:** ██████████░░░░ 90%
+
+## Contact
+- 📫 Connect with me:
+  LinkedIn: [RudraPratapDev](https://www.linkedin.com/in/rudra-it/)
 
 Let's create intelligent solutions together! 🤖✨
