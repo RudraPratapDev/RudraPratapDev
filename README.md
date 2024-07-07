@@ -22,6 +22,6 @@
 
 ## Contact
 - 📫 Connect with me:
-  LinkedIn: [RudraPratapDev](https://www.linkedin.com/in/rudra-it/)
+  LinkedIn: [RudraPratapDev](https://www.linkedin.com/in/rudra-tech/)
 
 Let's create intelligent solutions together! 🤖✨
